@@ -2,11 +2,13 @@
 
 **🇮🇹 Assistente vocale offline per l'infotainment MG4 · 🇬🇧 Offline voice assistant for the MG4 infotainment**
 
-> 🧪 **VERSIONE BETA (1.0.0-beta.2) – solo per prova.** Serve a capire se l'app funziona sulle auto reali.
-> Può contenere errori, comportamenti strani o funzioni incomplete. Non è la versione stabile.
+> 🧪 **VERSIONE BETA (1.0.0-beta.2) – supersperimentale, solo per prova.** Serve a capire se l'app funziona sulle
+> auto reali e a raccogliere allenamento: **serve ancora tanto allenamento**. Può sbagliare comandi, comportarsi in
+> modo strano o avere funzioni incomplete. Non è la versione stabile.
 >
-> 🧪 **BETA VERSION (1.0.0-beta.2) – for testing only.** It is meant to find out whether the app works on real cars.
-> It may contain bugs, odd behaviour or unfinished features. It is not the stable version.
+> 🧪 **BETA VERSION (1.0.0-beta.2) – super-experimental, for testing only.** It is meant to find out whether the app
+> works on real cars and to collect training data: **it still needs a lot of training**. It may misunderstand
+> commands, behave oddly or have unfinished features. It is not the stable version.
 
 ![Configurazione iniziale](MG4-Voce-1.0-configurazione.png)
 
@@ -20,7 +22,8 @@ volante riscaldati, volume, radio, musica, autonomia, batteria, telefono, finest
 **Funziona offline**: internet serve solo per scaricare lingua e voce la prima volta, e per gli aggiornamenti.
 
 - **Versioni:** SWI68, SWI69, SWI132, SWI133. Un solo APK, che riconosce il software da solo.
-- **Lingue:** italiano. In arrivo inglese, francese, spagnolo, tedesco, portoghese (BR/PT), turco e polacco.
+- **Lingue:** per ora **solo italiano**. Le altre lingue (inglese, francese, spagnolo, tedesco, portoghese BR/PT,
+  turco e polacco) arriveranno più avanti, sviluppate con l'aiuto di **madrelingua**.
 - **Voci naturali scaricabili:** Sara e Nicola.
 - **Capisce anche come si parla davvero:** "fa un freddo cane", "la musica è troppo alta", "il vetro è appannato"…
 - **Aggiornamenti automatici.**
@@ -35,7 +38,7 @@ allenamento veloce.
 ### Aiutaci ad allenarla
 È una **beta**. Se nella configurazione scegli **"Contribuisco"**, gli allenamenti vengono inviati **in forma
 anonima**: le frasi e brevi registrazioni dei comandi, niente numero di telaio. Con i dati di tutti costruiamo la
-versione stabile. Si può disattivare nelle impostazioni.
+versione stabile, e **ogni allenamento conta**: più la usi e la alleni, più migliora. Si può disattivare nelle impostazioni.
 
 ⚠️ **Avviso:** è un'app non ufficiale, non legata a MG/SAIC. La usi a tuo rischio: non fare la configurazione mentre
 guidi.
@@ -50,7 +53,8 @@ defrost, heated seats and wheel, volume, radio, music, range, battery, phone, wi
 **Works offline**: internet is only needed to download the language and voice the first time, and for updates.
 
 - **Versions:** SWI68, SWI69, SWI132, SWI133. One single APK, which detects the software by itself.
-- **Languages:** Italian. Coming soon: English, French, Spanish, German, Portuguese (BR/PT), Turkish and Polish.
+- **Languages:** for now **Italian only**. The other languages (English, French, Spanish, German, Portuguese BR/PT,
+  Turkish and Polish) will come later, developed with the help of **native speakers**.
 - **Automatic updates.**
 
 ### Install (beta)
