@@ -8,7 +8,7 @@
    "name": "it",
    "version": "1",
    "size": 77380156,
-   "sha256": "53602f062fa1a76170b38c947e6eab03cdb2abe4797857b05c4b1e0536210330",
+   "sha256": "60e4080685819d1c369fe599b2f5c8e5d3ccd5f5f600eb67ee0b33a9abec0cf2",
    "url": "https://github.com/ernestomicco2026-cell/mg4-voice/releases/download/packs-v1/lang-it.zip"
   },
   {
@@ -19,7 +19,7 @@
    "gender": "f",
    "version": "1",
    "size": 10519116,
-   "sha256": "37b1e46e9544b3feddfb70c71ef20c9c1f121a583f515cac7aa203124ac8cce8",
+   "sha256": "5e7a7612b92ffc2f5d8d30df20bf8a95adc7e731061c2efaaa282a3263a9568e",
    "url": "https://github.com/ernestomicco2026-cell/mg4-voice/releases/download/packs-v1/voice-it-sara.zip",
    "preview": "https://github.com/ernestomicco2026-cell/mg4-voice/releases/download/packs-v1/voice-it-sara.ogg"
   },
@@ -31,7 +31,7 @@
    "gender": "m",
    "version": "1",
    "size": 10408124,
-   "sha256": "41de9cd3350fa231139f4e8207aa9c564e5108968f3c8c3933868167deaf9edd",
+   "sha256": "c8e6cc23e6ed5cf7abbade267b2342d8b6e94acf56653a983f4b8d8ef22d245f",
    "url": "https://github.com/ernestomicco2026-cell/mg4-voice/releases/download/packs-v1/voice-it-nicola.zip",
    "preview": "https://github.com/ernestomicco2026-cell/mg4-voice/releases/download/packs-v1/voice-it-nicola.ogg"
   }
