@@ -29,9 +29,11 @@ volante riscaldati, volume, radio, musica, autonomia, batteria, telefono, finest
 - **Aggiornamenti automatici.**
 
 ### Installazione
-```
-adb install -r -f MG4-Voice-1.0.0-beta.x.apk
-```
+Si installa come una **normale app**:
+1. Scarica l'APK **MG4-Voice-1.0.0-beta.x.apk** dalla pagina [Releases](../../releases) (l'ultima beta).
+2. Copialo su una **chiavetta USB**, oppure installalo dal telefono o dal PC collegato all'auto.
+3. Nell'auto apri il file dalla chiavetta e tocca **Installa**.
+
 Al primo avvio parte la **configurazione** (circa 3 minuti, ad auto ferma): lingua, voce, microfono, "Ehi MG" e un
 allenamento veloce.
 
@@ -58,7 +60,12 @@ defrost, heated seats and wheel, volume, radio, music, range, battery, phone, wi
 - **Automatic updates.**
 
 ### Install (beta)
-`adb install -r -f MG4-Voice-1.0.0-beta.x.apk`. On first launch a short **setup** starts (about 3 minutes, while
+It installs like a **normal app**:
+1. Download the **MG4-Voice-1.0.0-beta.x.apk** file from the [Releases](../../releases) page (the latest beta).
+2. Copy it to a **USB stick**, or install it from a phone or PC connected to the car.
+3. In the car, open the file from the USB stick and tap **Install**.
+
+On first launch a short **setup** starts (about 3 minutes, while
 parked).
 
 ### Help us train it
