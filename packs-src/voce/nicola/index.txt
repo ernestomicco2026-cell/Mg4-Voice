@@ -1,0 +1,923 @@
+a dopo	2c423efc686c.ogg
+abbasso il volume	d167232739cd.ogg
+abbasso la temperatura	f32dd591433b.ogg
+accendo la radio	e00bc8e7d6fb.ogg
+aggiungo il brano ai preferiti	b762047fb386.ogg
+alzo il volume	38af629002f0.ogg
+alzo la temperatura	f457572d4a9f.ogg
+alzo un pò la temperatura	abd7cd114ecf.ogg
+apro il finestrino del passeggero	e0dbe06e8894.ogg
+apro il finestrino	1650f5a5e9f8.ogg
+apro le impostazioni	7bc9fb956ed7.ogg
+aria ai piedi e al parabrezza	ed99195a81b7.ogg
+aria ai piedi	190c2d3c8a5a.ogg
+aria al parabrezza	e5dfc78881d6.ogg
+aria al viso e ai piedi	898aab726804.ogg
+aria al viso	675a9fa72a3a.ogg
+aumento la luminosità	d444734787d6.ogg
+aumento la ventola	fa794670bdd3.ogg
+brano precedente	0dd1c4a106a9.ogg
+chiamo il numero	6d85acf93f6d.ogg
+chiudo il finestrino del passeggero	00d102f45216.ogg
+chiudo il finestrino	fc3f9dc96efb.ogg
+ciao dimmi pure	06a2dc62a33d.ogg
+clima acceso	d8a6bed35024.ogg
+clima spento	3cd7535074c2.ogg
+di nulla	c9208bc8caa4.ogg
+ecco le chiamate perse	e9e6dd35b645.ogg
+ecco lo stato della batteria	8a10abfc871d.ogg
+era una frase lunga dimmi solo il comando per esempio accendi il clima	bd399ecebdee.ogg
+luminosità al massimo	21e4fad67e5c.ogg
+luminosità al minimo	cd2aef8e733a.ogg
+metto i brani preferiti	ba11cb506f35.ogg
+metto in pausa	6078cc8898cc.ogg
+metto la musica	2ec0c6be336a.ogg
+muto	3b464a4c7c12.ogg
+non ho capito puoi ripetere	b2b11c2bb2df.ogg
+prossimo brano	cfdcf899aec4.ogg
+richiamo l'ultimo numero	0aeba77adb09.ogg
+riduco la luminosità	4bc45fb6d30b.ogg
+riduco la ventola	855a2977fcdb.ogg
+ripeto questo brano	0e9fcf6886df.ogg
+ripeto tutti i brani	08a5fbe2c103.ogg
+riproduzione casuale	fdfa4b0eaea0.ogg
+salvo la stazione nei preferiti	474f0944098f.ogg
+sbrinamento acceso	8030de345638.ogg
+sbrinamento spento	07ed27c04c6f.ogg
+temperatura al massimo	ca7c7e9d6273.ogg
+temperatura al minimo	609a0c173236.ogg
+tolgo il muto	352f70a8f885.ogg
+va bene non faccio niente	261c76707aaa.ogg
+ventola al massimo	ce33f1ad9fc0.ogg
+ventola al minimo	9dbc41595fbe.ogg
+volume al massimo	2661fb6a98ce.ogg
+volume al minimo	d095e0449e89.ogg
+vuoi aprire o chiudere il finestrino	37f5626028a4.ogg
+abbasso un pò la temperatura	e7bf4500c59c.ogg
+accendo i fendinebbia	1531f28b3afe.ogg
+accendo il retronebbia	ce8d72a53f59.ogg
+accendo il volante riscaldato	4b4bd1be1834.ogg
+apro il tetto	bf050c83507b.ogg
+attivo il ricircolo	3455a48cb011.ogg
+avanti	bfd46568d434.ogg
+chiamo	3ebf67fcdea3.ogg
+chiudo il tetto	41125dda668e.ogg
+clima in automatico	cb994aa67045.ogg
+cosa vuoi abbassare	f727f3128673.ogg
+cosa vuoi accendere	36e1e263e24f.ogg
+cosa vuoi alzare	a073205701c0.ogg
+cosa vuoi aprire	176e6c7260e8.ogg
+cosa vuoi chiudere	db0c2ba60e77.ogg
+cosa vuoi spegnere	190f187bec60.ogg
+fatto	0e596a8dcc01.ogg
+hai circa	470076a1edfd.ogg
+i fendinebbia sono già accesi	e5bc17f0142b.ogg
+i fendinebbia sono già spenti	779c05a64c76.ogg
+il clima automatico è già spento	fb1448aad2c4.ogg
+il clima è già in automatico	a247e70d7b17.ogg
+il numero non è valido	6e6a7630dd1c.ogg
+il retronebbia è già acceso	b48d71cdfd23.ogg
+il retronebbia è già spento	870af17dfe58.ogg
+il ricircolo è già attivo	ceb9d2912cb8.ogg
+il sedile	5e5e836aaf00.ogg
+il telefono non è collegato	971a8cb2bafe.ogg
+il volante riscaldato è già spento	35ccc47056a3.ogg
+il volante è già riscaldato	63013b041026.ogg
+imposto	d3b54c3a6c4d.ogg
+in questo momento non è disponibile	52960ecfbc87.ogg
+indietro	e5844b95db51.ogg
+l'app necessaria non è installata	f1d5d373c281.ogg
+la batteria è al	6ff7cf42f913.ogg
+la luminosità è in automatico e non si può regolare	b57329ca0574.ogg
+la sorgente audio non è disponibile	65d45c302037.ogg
+la temperatura impostata è	8a7a51cf7c83.ogg
+lo sbrinamento è già acceso	b8e27be01644.ogg
+lo sbrinamento è già spento	bd5a09b97a94.ogg
+metto	b7471abc5070.ogg
+non ci sono stazioni preferite	00cae53b8b5d.ogg
+non ho capito il livello	5ddc19c1b08b.ogg
+non ho capito il numero	845ea3d381ae.ogg
+non ho capito la temperatura	ee52f7041f22.ogg
+non ho capito	8b6e20e8ac54.ogg
+non ho capito riprova quando vuoi	a4bef8ed3692.ogg
+non ho trovato il brano	9e2ec86d2356.ogg
+non ho trovato il contatto	9ac8b29c2ea6.ogg
+non riesco a eseguire il comando ora	a3c6abfd2f6e.ogg
+non riesco a leggere il dato ora	9c605330bd3b.ogg
+non riesco a leggere il ricircolo	e19b9bd647c8.ogg
+non riesco a leggere l'autonomia ora	fa6f87f4a595.ogg
+non riesco a leggere la batteria ora	ddc9057d4f78.ogg
+non riesco a leggere la temperatura del clima	73092e829087.ogg
+non riesco a leggere la temperatura ora	75d92d90f3e6.ogg
+non trovo	e86e491acde3.ogg
+passo alla radio am	3fdef052be77.ogg
+posso mettere la musica andare avanti o indietro	335d80c85273.ogg
+premo il riscaldamento del sedile	ef502785758d.ogg
+prendo aria da fuori	47e744a6b0ed.ogg
+prova della voce italiana la temperatura è di ventuno gradi	906c2bd05ab8.ogg
+questa funzione non è disponibile sull'auto	5d5dc24211db.ogg
+richiamo l'ultima chiamata ricevuta	f13372640056.ogg
+scaldo entrambi i sedili	c9471cf78c89.ogg
+scusa ho capito male ripeti pure	38494ed1ec17.ogg
+sedile	8bf1aa752efc.ogg
+sintonizzo	ecf0bb3a8934.ogg
+spengo entrambi i sedili	2c47ac643e90.ogg
+spengo i fendinebbia	dc1254ead63d.ogg
+spengo il retronebbia	59921dc70d0e.ogg
+spengo il sedile	a2cbd6cb0fb7.ogg
+spengo il volante riscaldato	cb69eae25367.ogg
+sto già prendendo aria da fuori	56edfdc7a18e.ogg
+su questa auto i sedili riscaldati non si possono comandare dall'assistente	14426b8d432e.ogg
+su questa auto il volante riscaldato non si può comandare dall'assistente	1dc4ba522e51.ogg
+su questa radio non posso cercare un brano o un artista	bda4b89314bd.ogg
+su questa versione della radio questa funzione non è disponibile	0dcb78e91ae7.ogg
+tolgo il brano dai preferiti	40ba52d5cc15.ogg
+tolgo il clima automatico	240a7c4ee063.ogg
+tolgo la stazione dai preferiti	31b70d4d3b83.ogg
+ventola al livello	cb1ec7341a43.ogg
+chilometri di autonomia	1e90a71c7ec6.ogg
+gradi	3dd56b8235f2.ogg
+in rubrica dimmi il numero	429719489bab.ogg
+megahertz	ab9ee02e91e0.ogg
+per cento	94c734950780.ogg
+tra le stazioni	dfa35bdcb760.ogg
+è già al massimo	139e38e83f43.ogg
+è già al minimo	a559f0f24b67.ogg
+è già così	72cd383b458a.ogg
+è oltre la temperatura massima	ff33b3c2c6d4.ogg
+è sotto la temperatura minima	7bbf9e7e2ef4.ogg
+e	58e6b3a414a1.ogg
+virgola	232d22d52807.ogg
+punto	f4c4ee6ea26b.ogg
+prova ho capito	7a2cca4d4f54.ogg
+prova non ho capito	38735f1bf85d.ogg
+bene a dopo	484091baa261.ogg
+tutto bene pronta a guidare con te	33a2882fd909.ogg
+ciao sono il tuo assistente mg mi senti bene	1f75f33ccf59.ogg
+il microfono è usato da un'altra app riprova tra poco	26315b4de8f0.ogg
+sto ancora preparando il riconoscimento vocale riprova tra qualche secondo	bafd246c9f04.ogg
+non ho sentito nulla	4fd4a88beacf.ogg
+imposto 16 gradi	7ea101ac8358.ogg
+imposto 17 gradi	aa6b31950fb2.ogg
+imposto 18 gradi	5ae3b7a179cd.ogg
+imposto 19 gradi	c38fd9af979a.ogg
+imposto 20 gradi	2d700a767536.ogg
+imposto 21 gradi	0c9189c52771.ogg
+imposto 22 gradi	a31dd376fcd9.ogg
+imposto 23 gradi	31d018d12ae0.ogg
+imposto 24 gradi	7e5ddfa32ca3.ogg
+imposto 25 gradi	c72fdbfaec36.ogg
+imposto 26 gradi	87be6a89ee05.ogg
+imposto 27 gradi	83f156e678f6.ogg
+imposto 28 gradi	8f79973de08f.ogg
+imposto 29 gradi	4b6fd92e70c6.ogg
+imposto 30 gradi	64a3f77d2b5b.ogg
+imposto 31 gradi	d0e97d87e7a8.ogg
+ventola al livello 1	146d93a7d354.ogg
+ventola al livello 2	c0a4c3f25e08.ogg
+ventola al livello 3	9fefe6436d80.ogg
+ventola al livello 4	080576a75f40.ogg
+ventola al livello 5	d87f00558195.ogg
+ventola al livello 6	b195451e617d.ogg
+ventola al livello 7	d43dc011d608.ogg
+ventola al livello 8	a9353ca0c663.ogg
+ventola al livello 9	85fbe364c142.ogg
+ventola al livello 10	d14bf8bbad7f.ogg
+ventola al livello 11	2927f78206cf.ogg
+la temperatura impostata è 15 gradi	81b3c345565c.ogg
+la temperatura impostata è 16 gradi	00446fcbb822.ogg
+la temperatura impostata è 17 gradi	5dccc75d1b87.ogg
+la temperatura impostata è 18 gradi	3a8bcfa4f6e5.ogg
+la temperatura impostata è 19 gradi	f473fba01134.ogg
+la temperatura impostata è 20 gradi	a240225266bf.ogg
+la temperatura impostata è 21 gradi	a393745cae82.ogg
+la temperatura impostata è 22 gradi	90ed62777dec.ogg
+la temperatura impostata è 23 gradi	b9a97807c0e7.ogg
+la temperatura impostata è 24 gradi	519fa95cdd22.ogg
+la temperatura impostata è 25 gradi	f38ee3f0c6db.ogg
+la temperatura impostata è 26 gradi	504878d0dcb7.ogg
+la temperatura impostata è 27 gradi	99c2ab2431e6.ogg
+la temperatura impostata è 28 gradi	0a100595a1e9.ogg
+la temperatura impostata è 29 gradi	b40b93b3da7a.ogg
+la temperatura impostata è 30 gradi	9fa067529359.ogg
+la temperatura impostata è 31 gradi	82f8344fb1de.ogg
+la batteria è al 0 per cento	41db39a9d0eb.ogg
+la batteria è al 1 per cento	bf154ce7eaa8.ogg
+la batteria è al 2 per cento	9e4f59896c91.ogg
+la batteria è al 3 per cento	73745dbf4991.ogg
+la batteria è al 4 per cento	bd1e60f2e19b.ogg
+la batteria è al 5 per cento	623e1a8f3652.ogg
+la batteria è al 6 per cento	45f5c255bd1e.ogg
+la batteria è al 7 per cento	66e390cc8059.ogg
+la batteria è al 8 per cento	9a0a80515833.ogg
+la batteria è al 9 per cento	3062034856e4.ogg
+la batteria è al 10 per cento	e2d568172b61.ogg
+la batteria è al 11 per cento	2a3a99cd697e.ogg
+la batteria è al 12 per cento	068b57814da3.ogg
+la batteria è al 13 per cento	2ab8b74f55eb.ogg
+la batteria è al 14 per cento	46617b182984.ogg
+la batteria è al 15 per cento	62af4ecf1e21.ogg
+la batteria è al 16 per cento	209e25ee5936.ogg
+la batteria è al 17 per cento	416283d023a7.ogg
+la batteria è al 18 per cento	f512cf0997be.ogg
+la batteria è al 19 per cento	948cdd274730.ogg
+la batteria è al 20 per cento	ffab87695500.ogg
+la batteria è al 21 per cento	52993cdfc650.ogg
+la batteria è al 22 per cento	1be23d626417.ogg
+la batteria è al 23 per cento	2c7583056ec5.ogg
+la batteria è al 24 per cento	f05c1cc871e0.ogg
+la batteria è al 25 per cento	da88a919243d.ogg
+la batteria è al 26 per cento	7297b7e160b4.ogg
+la batteria è al 27 per cento	388023f4cea8.ogg
+la batteria è al 28 per cento	33c319a4fbea.ogg
+la batteria è al 29 per cento	ec7d0894610b.ogg
+la batteria è al 30 per cento	d1a22506ed36.ogg
+la batteria è al 31 per cento	8cf631934a0c.ogg
+la batteria è al 32 per cento	16a0a7dcc2f2.ogg
+la batteria è al 33 per cento	a2a39e461ccd.ogg
+la batteria è al 34 per cento	c9d8bab3b309.ogg
+la batteria è al 35 per cento	479235f5eb32.ogg
+la batteria è al 36 per cento	42644aef07b5.ogg
+la batteria è al 37 per cento	ae23e0b7ffac.ogg
+la batteria è al 38 per cento	c8d172032edd.ogg
+la batteria è al 39 per cento	df151013c6bf.ogg
+la batteria è al 40 per cento	ebb901cb464d.ogg
+la batteria è al 41 per cento	7dc9b8cd58af.ogg
+la batteria è al 42 per cento	829a44120c23.ogg
+la batteria è al 43 per cento	2615c22cbf25.ogg
+la batteria è al 44 per cento	0c6c7363a745.ogg
+la batteria è al 45 per cento	ad975ade4dd8.ogg
+la batteria è al 46 per cento	3442a28b01db.ogg
+la batteria è al 47 per cento	d8a420eb2982.ogg
+la batteria è al 48 per cento	73879d1255da.ogg
+la batteria è al 49 per cento	6aa84a18e175.ogg
+la batteria è al 50 per cento	e43f78aa7083.ogg
+la batteria è al 51 per cento	fa987130c43e.ogg
+la batteria è al 52 per cento	16ff9e594d4f.ogg
+la batteria è al 53 per cento	fc19ec673ad4.ogg
+la batteria è al 54 per cento	404bee3e9afc.ogg
+la batteria è al 55 per cento	c514180aa905.ogg
+la batteria è al 56 per cento	ff63b89eedf8.ogg
+la batteria è al 57 per cento	567ec0eb1cc8.ogg
+la batteria è al 58 per cento	c9e50e2656fe.ogg
+la batteria è al 59 per cento	ce16eed5a301.ogg
+la batteria è al 60 per cento	906cce989cee.ogg
+la batteria è al 61 per cento	7746a12cb611.ogg
+la batteria è al 62 per cento	0de9fd67c2c7.ogg
+la batteria è al 63 per cento	1cfaf9acb0d3.ogg
+la batteria è al 64 per cento	0de526c9e4ca.ogg
+la batteria è al 65 per cento	aae4bf138992.ogg
+la batteria è al 66 per cento	07b7796b4238.ogg
+la batteria è al 67 per cento	25c4f7507f40.ogg
+la batteria è al 68 per cento	e75e1c257fdc.ogg
+la batteria è al 69 per cento	7fd9c9ea318a.ogg
+la batteria è al 70 per cento	a0b30b1346a3.ogg
+la batteria è al 71 per cento	3b51819acaa3.ogg
+la batteria è al 72 per cento	dd2d8a073212.ogg
+la batteria è al 73 per cento	ca912e0e7bb9.ogg
+la batteria è al 74 per cento	a48f77dfa9c1.ogg
+la batteria è al 75 per cento	004141cda403.ogg
+la batteria è al 76 per cento	0720f076dd91.ogg
+la batteria è al 77 per cento	f0f8048f28f9.ogg
+la batteria è al 78 per cento	1a354985a44d.ogg
+la batteria è al 79 per cento	950e1682e740.ogg
+la batteria è al 80 per cento	cf63b910b902.ogg
+la batteria è al 81 per cento	3cd3d2716029.ogg
+la batteria è al 82 per cento	cd4d3021eaba.ogg
+la batteria è al 83 per cento	7aeba2e9d9dd.ogg
+la batteria è al 84 per cento	cbbf709b2e13.ogg
+la batteria è al 85 per cento	aa654f6a2d2f.ogg
+la batteria è al 86 per cento	c9b31e64a2e7.ogg
+la batteria è al 87 per cento	f46b91099764.ogg
+la batteria è al 88 per cento	9e1f344ab964.ogg
+la batteria è al 89 per cento	8fcbc3c8f116.ogg
+la batteria è al 90 per cento	9b32b732be67.ogg
+la batteria è al 91 per cento	77e1aa2332ba.ogg
+la batteria è al 92 per cento	7409a1fbc0c2.ogg
+la batteria è al 93 per cento	a98b0d9235f8.ogg
+la batteria è al 94 per cento	edb3e70b8f6c.ogg
+la batteria è al 95 per cento	a752fdfd6a35.ogg
+la batteria è al 96 per cento	61fe4386f70d.ogg
+la batteria è al 97 per cento	d3b46dbef9d8.ogg
+la batteria è al 98 per cento	dec69de2e6a3.ogg
+la batteria è al 99 per cento	9f4260316446.ogg
+la batteria è al 100 per cento	dafdbdffa0df.ogg
+spengo il sedile guidatore	d8d80febae12.ogg
+premo il riscaldamento del sedile guidatore	ed9041f915b4.ogg
+il sedile guidatore è già spento	ae232ef91423.ogg
+sedile guidatore al livello 1	364c8fe849d4.ogg
+il sedile guidatore è già al livello 1	e602fa4787b3.ogg
+sedile guidatore al livello 2	5182862d130c.ogg
+il sedile guidatore è già al livello 2	7a256637bae4.ogg
+sedile guidatore al livello 3	c559e0ae7f91.ogg
+il sedile guidatore è già al livello 3	6652e6e507c4.ogg
+spengo il sedile passeggero	6b2ef7abfd70.ogg
+premo il riscaldamento del sedile passeggero	f11542cf840a.ogg
+il sedile passeggero è già spento	918cb77a85a9.ogg
+sedile passeggero al livello 1	f3810f02f832.ogg
+il sedile passeggero è già al livello 1	5ecd5a282f45.ogg
+sedile passeggero al livello 2	7cabeaa056b4.ogg
+il sedile passeggero è già al livello 2	4f96c2b5751f.ogg
+sedile passeggero al livello 3	b553aeed951b.ogg
+il sedile passeggero è già al livello 3	72bcf3464b1b.ogg
+0	b6589fc6ab0d.ogg
+1	356a192b7913.ogg
+2	da4b9237bacc.ogg
+3	77de68daecd8.ogg
+4	1b6453892473.ogg
+5	ac3478d69a3c.ogg
+6	c1dfd96eea8c.ogg
+7	902ba3cda188.ogg
+8	fe5dbbcea5ce.ogg
+9	0ade7c2cf97f.ogg
+10	b1d5781111d8.ogg
+11	17ba0791499d.ogg
+12	7b52009b64fd.ogg
+13	bd307a3ec329.ogg
+14	fa35e192121e.ogg
+15	f1abd670358e.ogg
+16	1574bddb75c7.ogg
+17	0716d9708d32.ogg
+18	9e6a55b6b456.ogg
+19	b3f0c7f6bb76.ogg
+20	91032ad7bbcb.ogg
+21	472b07b9fcf2.ogg
+22	12c6fc06c99a.ogg
+23	d435a6cdd786.ogg
+24	4d134bc07221.ogg
+25	f6e1126cedeb.ogg
+26	887309d048be.ogg
+27	bc33ea4e26e5.ogg
+28	0a57cb53ba59.ogg
+29	7719a1c782a1.ogg
+30	22d200f8670d.ogg
+31	632667547e7c.ogg
+32	cb4e5208b4cd.ogg
+33	b6692ea5df92.ogg
+34	f1f836cb4ea6.ogg
+35	972a67c48192.ogg
+36	fc074d501302.ogg
+37	cb7a1d775e80.ogg
+38	5b384ce32d8c.ogg
+39	ca3512f4dfa9.ogg
+40	af3e133428b9.ogg
+41	761f22b2c159.ogg
+42	92cfceb39d57.ogg
+43	0286dd552c9b.ogg
+44	98fbc42faedc.ogg
+45	fb644351560d.ogg
+46	fe2ef495a115.ogg
+47	827bfc458708.ogg
+48	64e095fe763f.ogg
+49	2e01e1746789.ogg
+50	e1822db470e6.ogg
+51	b7eb6c689c03.ogg
+52	a9334987ece7.ogg
+53	c5b76da3e608.ogg
+54	80e28a51cbc2.ogg
+55	8effee409c62.ogg
+56	54ceb91256e8.ogg
+57	9109c85a45b7.ogg
+58	667be543b022.ogg
+59	5a5b0f9b7d3f.ogg
+60	e6c3dd630428.ogg
+61	6c1e671f9af5.ogg
+62	511a418e7259.ogg
+63	a17554a0d2b1.ogg
+64	c66c65175fec.ogg
+65	2a459380709e.ogg
+66	59129aacfb6c.ogg
+67	4d89d294cd4c.ogg
+68	b4c96d80854d.ogg
+69	a72b20062ec2.ogg
+70	b7103ca278a7.ogg
+71	d02560dd9d7d.ogg
+72	c097638f92de.ogg
+73	35e995c107a7.ogg
+74	1f1362ea41d1.ogg
+75	450ddec8dd20.ogg
+76	d54ad009d179.ogg
+77	d321d6f7ccf9.ogg
+78	eb4ac3033e8a.ogg
+79	b74f5ee94614.ogg
+80	b888b29826bb.ogg
+81	1d513c0bcbe3.ogg
+82	76546f9a641e.ogg
+83	7d7116e23efe.ogg
+84	be461a0cd1fd.ogg
+85	1352246e3327.ogg
+86	3c26dffc8a2e.ogg
+87	e62d7f1eb43d.ogg
+88	b37f6ddcefad.ogg
+89	16b06bd9b738.ogg
+90	2d0c8af807ef.ogg
+91	4cd66dfabbd9.ogg
+92	8ee51caaa2c2.ogg
+93	08a35293e09f.ogg
+94	215bb47da8fa.ogg
+95	8e63fd3e7779.ogg
+96	6fb84aed32fa.ogg
+97	812ed4562d32.ogg
+98	31bd9b9f5f7b.ogg
+99	9a79be611e02.ogg
+100	310b86e0b62b.ogg
+101	dbc0f0048544.ogg
+102	c8306ae139ac.ogg
+103	934385f53d1b.ogg
+104	78a8efcbaaa1.ogg
+105	e114c448f4ab.ogg
+106	7224f997fc14.ogg
+107	524e05dc7723.ogg
+108	17503a6b2326.ogg
+109	a1422e6a1686.ogg
+110	5e796e48332a.ogg
+111	6216f8a75fd5.ogg
+112	601ca99d55f0.ogg
+113	e993215bfdaa.ogg
+114	ecb7937db58e.ogg
+115	efa6e44dfa01.ogg
+116	683e725c03a8.ogg
+117	d0e2dbb0bac1.ogg
+118	12f0de3dc76e.ogg
+119	a2e33d344f27.ogg
+120	775bc5c30e27.ogg
+121	8bd7954c40c1.ogg
+122	05a8ea5382b9.ogg
+123	40bd00156308.ogg
+124	f38cfe2e2fac.ogg
+125	0ca9277f91e4.ogg
+126	114d4eefde1d.ogg
+127	008451a05e1e.ogg
+128	b4182bff4b3c.ogg
+129	8b7471f4ae0b.ogg
+130	2a7541babb57.ogg
+131	e794a80eb109.ogg
+132	91dfde1d6e00.ogg
+133	d30f79cf7fef.ogg
+134	95e815d1541b.ogg
+135	40f7c01f4189.ogg
+136	9e071a3a594a.ogg
+137	e1a864f0b77f.ogg
+138	56ad4d4deaec.ogg
+139	fa755791d050.ogg
+140	c28aca23f1ef.ogg
+141	c9ca44276565.ogg
+142	2a2b47bf21a3.ogg
+143	f47aea8bdcbd.ogg
+144	7320828c9153.ogg
+145	50336bc687eb.ogg
+146	3fcfb99ec010.ogg
+147	b3c0730cf3f5.ogg
+148	536fb6934062.ogg
+149	39dfc9ffd325.ogg
+150	13682ac41860.ogg
+151	b16a457a3302.ogg
+152	ac2646028f5b.ogg
+153	a6f16ab483da.ogg
+154	06349be70bd2.ogg
+155	9d8974baddfc.ogg
+156	6052521b7625.ogg
+157	097ccd4f03d9.ogg
+158	a3d12597f93e.ogg
+159	6b6277afcb65.ogg
+160	be057d4ca44c.ogg
+161	0159a99ed28b.ogg
+162	ae1e7198bc30.ogg
+163	fd93751649ac.ogg
+164	a929eb33e338.ogg
+165	74cbd2c215c2.ogg
+166	69e56976fc9b.ogg
+167	708a77db476d.ogg
+168	f76b2ea6b45e.ogg
+169	2659fc519890.ogg
+170	717b2f3d8816.ogg
+171	94940e534aed.ogg
+172	c1aa04bf421e.ogg
+173	572e20738130.ogg
+174	d094700e379f.ogg
+175	04f1241ed2b1.ogg
+176	5c8f5ac0b7ad.ogg
+177	26e7458dc56a.ogg
+178	25293f2761d6.ogg
+179	9e44d2771c05.ogg
+180	ec7f1f650671.ogg
+181	aee544ceddfe.ogg
+182	58f0744907ea.ogg
+183	dc685e2c3fd7.ogg
+184	bcf814ab4150.ogg
+185	cfa2ed2aac6d.ogg
+186	87d538ef1c1d.ogg
+187	f67462663a51.ogg
+188	acf1fffc01dc.ogg
+189	e54183e2a040.ogg
+190	3a2dc677d8e8.ogg
+191	2fcc820fc1d9.ogg
+192	19a448c01aa2.ogg
+193	14bb99f81147.ogg
+194	2a79f1412094.ogg
+195	752ae7bdbb96.ogg
+196	4dea1daedbe9.ogg
+197	61188f243968.ogg
+198	c837307a9a2a.ogg
+199	2952aeca0fe1.ogg
+200	9f9af029585b.ogg
+201	7f03f3f2febc.ogg
+202	1e7b95c56146.ogg
+203	a165fbd61c27.ogg
+204	1cc641954099.ogg
+205	5f1cd7c3fb68.ogg
+206	4afa8f9e9075.ogg
+207	3be76cc016a8.ogg
+208	baab34018148.ogg
+209	acfdd18ea7f4.ogg
+210	135debd48370.ogg
+211	1b4a364f76e9.ogg
+212	e2154fea5da2.ogg
+213	19187dc98dce.ogg
+214	9a15f42d1c52.ogg
+215	828f720439ce.ogg
+216	0bad865a02d8.ogg
+217	49e3d046636e.ogg
+218	3d5bdf107de5.ogg
+219	c0ba17c23a26.ogg
+220	f37062d9a655.ogg
+221	9a70776c7433.ogg
+222	1c6637a8f2e1.ogg
+223	af06318c33c8.ogg
+224	bc15c774dca4.ogg
+225	cfe21c6800c8.ogg
+226	c1a38b8a671f.ogg
+227	42d2a6ad49f9.ogg
+228	cad06f3c4901.ogg
+229	4c8205da3610.ogg
+230	2815f6b98b7a.ogg
+231	eadc1dd8fc27.ogg
+232	4f0f5c96ca84.ogg
+233	52fdb9f68c50.ogg
+234	0ec09ef9836d.ogg
+235	0b7f5ada6bdd.ogg
+236	5d23e9656032.ogg
+237	3c331613a26f.ogg
+238	5b7d26c4d99b.ogg
+239	584130e068c3.ogg
+240	cae91e45aed8.ogg
+241	9ffd1ae121c4.ogg
+242	851cd04fbcac.ogg
+243	4af7f9edc0f5.ogg
+244	01592d51db5a.ogg
+245	3aed9b0313f9.ogg
+246	3464dc11507c.ogg
+247	b4ef7df17d3d.ogg
+248	ca3799b8ff86.ogg
+249	ee44c6bcc4e0.ogg
+250	ba30fd97b412.ogg
+251	d6e3de36b09b.ogg
+252	98fcc378d7f5.ogg
+253	4c15dc21c916.ogg
+254	c9f13c161440.ogg
+255	3028f51407d8.ogg
+256	dd7c1a3d9d56.ogg
+257	c439c60b7bf0.ogg
+258	982fd8b71127.ogg
+259	5f573b82f1da.ogg
+260	09d66f6e5482.ogg
+261	5d00f2c62873.ogg
+262	1106a1dda2d6.ogg
+263	065f8e41a20c.ogg
+264	682a03f4cd9e.ogg
+265	25250e46745c.ogg
+266	45cbe19f3771.ogg
+267	81ecfd4383a1.ogg
+268	d5f0d9102728.ogg
+269	9a61b86ecef7.ogg
+270	29350804a152.ogg
+271	ef7de0b7dedd.ogg
+272	eb94d5c2be91.ogg
+273	733b57ae9e45.ogg
+274	431bf3b995a9.ogg
+275	df518c2e0702.ogg
+276	6d363479c974.ogg
+277	f333160e6b20.ogg
+278	68b5193fd0f5.ogg
+279	1407c2b75f43.ogg
+280	ba613d1fc0d9.ogg
+281	d8502b7d7748.ogg
+282	267b976f6f33.ogg
+283	3032a4beba0c.ogg
+284	7f35419a058e.ogg
+285	367ac64a16d1.ogg
+286	7edab1f00ca6.ogg
+287	f0a4acfc86df.ogg
+288	b70706fdb002.ogg
+289	6b0f4d999089.ogg
+290	9d323717c1d5.ogg
+291	3717862a00f8.ogg
+292	85f1002bf139.ogg
+293	05580caed314.ogg
+294	3a085d1bc5fa.ogg
+295	a02b857f2eff.ogg
+296	cc8cd1ceed58.ogg
+297	dd500e1c0fa5.ogg
+298	eb65e208b715.ogg
+299	4b2e392816d9.ogg
+300	e26973e6ee8a.ogg
+301	787d41d9c35c.ogg
+302	cd0613ba91fb.ogg
+303	bbcbb1e84426.ogg
+304	79816ecb0a75.ogg
+305	9a3d6127374a.ogg
+306	72c1975b93f0.ogg
+307	ae5ffa6599c8.ogg
+308	3e0f83cc5127.ogg
+309	ed2efc1c0534.ogg
+310	af53d4aa0b91.ogg
+311	cd6d91089c7e.ogg
+312	a93c16832314.ogg
+313	97b31c942dea.ogg
+314	6e21fce62b88.ogg
+315	f6b9b6ccd044.ogg
+316	81c69212880f.ogg
+317	f44a286f486d.ogg
+318	154a31bf7fa8.ogg
+319	a84c9aa070f9.ogg
+320	7fdec83a2662.ogg
+321	5f6955d227a3.ogg
+322	81110df80ca4.ogg
+323	cb4dd52770e2.ogg
+324	914127d1002e.ogg
+325	4551b2d552b0.ogg
+326	4296abf737c7.ogg
+327	076e5a3a3203.ogg
+328	5547f6312291.ogg
+329	8d396f904775.ogg
+330	a609bb8ab05a.ogg
+331	c28097ad29ab.ogg
+332	ef2afd226e33.ogg
+333	43814346e214.ogg
+334	fffb8e85796e.ogg
+335	4728a26498a7.ogg
+336	9c882d5c6a1a.ogg
+337	0588f5901448.ogg
+338	01ec40215edd.ogg
+339	6c41101fe24a.ogg
+340	3e6bf6c89ba8.ogg
+341	8da4dabfaeb4.ogg
+342	c415505dca69.ogg
+343	25a5e3012854.ogg
+344	640bacfb48ae.ogg
+345	35139ef894b2.ogg
+346	41f448afc826.ogg
+347	1b04f217730b.ogg
+348	cfd179966063.ogg
+349	3341b16b2e02.ogg
+350	89a1c105a472.ogg
+351	0026476a20bf.ogg
+352	efbc0848b836.ogg
+353	8ada660e06b7.ogg
+354	1a1162ec85b1.ogg
+355	90af7edbfd8a.ogg
+356	d20016547f48.ogg
+357	86970064ea53.ogg
+358	abf749051d8b.ogg
+359	2a5ac580e608.ogg
+360	a1773d62a609.ogg
+361	b6e7a22c25e9.ogg
+362	8d6f9131366d.ogg
+363	15a17abee2bf.ogg
+364	56e43ae4ca93.ogg
+365	a0d04378f379.ogg
+366	b00168585f7b.ogg
+367	f09093216275.ogg
+368	9aaa0b523023.ogg
+369	5e06d22c8893.ogg
+370	97705a95fdc2.ogg
+371	3554dce55f34.ogg
+372	6d93f2a0e5f0.ogg
+373	a5133248b1b5.ogg
+374	4a0e88cf529f.ogg
+375	348763862f0a.ogg
+376	b6e2efd8ffb9.ogg
+377	be4d979ef980.ogg
+378	0d990fa9636d.ogg
+379	c829eb96cef0.ogg
+380	c30749cf5bc7.ogg
+381	00f7eea0d077.ogg
+382	d0226f9e35da.ogg
+383	8c4a0a7afbb1.ogg
+384	b741f2520f68.ogg
+385	855679730970.ogg
+386	295df4a5051a.ogg
+387	f7e19157e9c4.ogg
+388	11307768e6d7.ogg
+389	1ed8625b87fe.ogg
+390	f369b411c5eb.ogg
+391	4c629c4c3401.ogg
+392	0715d58c7486.ogg
+393	b0c68924acc4.ogg
+394	bc62305b6cff.ogg
+395	86cf294a07a8.ogg
+396	2bc4a9de2123.ogg
+397	20387dbb740a.ogg
+398	10309cbe2800.ogg
+399	9ed4f29f8b68.ogg
+400	ab7f7b955330.ogg
+401	63b4f91cf8f3.ogg
+402	5e63673cbc07.ogg
+403	8980dc86c1e9.ogg
+404	c35a9fc52bb5.ogg
+405	7ee51d9582ef.ogg
+406	b202977c0fc0.ogg
+407	e6de89674d9f.ogg
+408	beba4d5d3ffb.ogg
+409	3352d0d8278c.ogg
+410	329dc1daf9fb.ogg
+411	83fdc3407ccf.ogg
+412	6e9b99384f21.ogg
+413	5715aa02de07.ogg
+414	4396c2d023b9.ogg
+415	8749f5bad075.ogg
+416	279e901e056c.ogg
+417	4dc77829a695.ogg
+418	93ac1946cb91.ogg
+419	1f0037c5e924.ogg
+420	7a95563490d8.ogg
+421	1c76c42db69f.ogg
+422	020c48773625.ogg
+423	a785bdbf3c99.ogg
+424	77873674e5df.ogg
+425	7a698699a922.ogg
+426	62866ab41533.ogg
+427	fba7b60b15f0.ogg
+428	2aed8cef33a6.ogg
+429	75988f5ac057.ogg
+430	f8c024c4ad95.ogg
+431	6c0ac76ca9fe.ogg
+432	a2092f63a2f9.ogg
+433	82ad38f88521.ogg
+434	8949eb0b6a2e.ogg
+435	784ef0059227.ogg
+436	6c4c04be8f82.ogg
+437	bf9e9998a83a.ogg
+438	06cb3f00aa09.ogg
+439	0fdf6a63ef21.ogg
+440	6d0e1050797b.ogg
+441	5dd8b53aacfc.ogg
+442	e076fa133a86.ogg
+443	ac3e7b007d7a.ogg
+444	9a3e61b6bcc8.ogg
+445	ac9c95776042.ogg
+446	5a9295d8fa43.ogg
+447	08d55d01921d.ogg
+448	f04b1d726c61.ogg
+449	5fd7e33e01c8.ogg
+450	d96adb142a1f.ogg
+451	9d4650d4e894.ogg
+452	3af0af21718a.ogg
+453	4ac2bbff5b52.ogg
+454	14019988a920.ogg
+455	b02b70815b85.ogg
+456	51eac6b471a2.ogg
+457	d36550fc4422.ogg
+458	06be19ff5cbf.ogg
+459	bf0d80b16262.ogg
+460	e973a64ce098.ogg
+461	668f37d8c8de.ogg
+462	5a73b747ec74.ogg
+463	07fd89a40a37.ogg
+464	6f946e26bbbc.ogg
+465	f8b5f622dcf9.ogg
+466	cf2f328d2485.ogg
+467	ec2b67d54675.ogg
+468	3977dced04b7.ogg
+469	e3e097dc79d8.ogg
+470	264c3f3470ca.ogg
+471	5e5ad0b76c76.ogg
+472	cf06ed6df6eb.ogg
+473	7ed28031fea3.ogg
+474	1625434cebb5.ogg
+475	6e75d23a0574.ogg
+476	38c07d9eb6f5.ogg
+477	8665243ef242.ogg
+478	fbea31c7083e.ogg
+479	eaef52968c5b.ogg
+480	6153f0b97fb4.ogg
+481	2978e0c34dbe.ogg
+482	d051bf1ddf82.ogg
+483	9ee0df7c8a64.ogg
+484	329a970dfa7f.ogg
+485	3b69df951b3d.ogg
+486	6cc71d91778f.ogg
+487	8f98b68c4d83.ogg
+488	ee16ee0fa7f2.ogg
+489	343ae8e26ca0.ogg
+490	1b0a69d74c5a.ogg
+491	014a1aa3f7a2.ogg
+492	77d67ab1e3d0.ogg
+493	c56f5cb661da.ogg
+494	456f2361d677.ogg
+495	f1e75747bc4c.ogg
+496	93e097e319c2.ogg
+497	ccddaf626302.ogg
+498	d049c44e2fd6.ogg
+499	edd6ebda641b.ogg
+500	f83a383c0fa8.ogg
+501	2c9a62c3748f.ogg
+502	2f9f705a3830.ogg
+503	7110e0d3f236.ogg
+504	300122350a32.ogg
+505	3ead28f890ec.ogg
+506	e408d89ae85c.ogg
+507	1185401df4fc.ogg
+508	07a85bd180d3.ogg
+509	6d5db0e809f7.ogg
+510	2d3fbcffe8a4.ogg
+511	b7f5113f8337.ogg
+512	ce09b127d48f.ogg
+513	10d293a95915.ogg
+514	3f1522d02559.ogg
+515	f5b68d74621a.ogg
+516	b903ea6300ff.ogg
+517	142e9ae35ca0.ogg
+518	0486ffb0d9c8.ogg
+519	8a279e5c5354.ogg
+520	0b6a63765cf0.ogg
+521	91afc4c29170.ogg
+522	22ef9733f340.ogg
+523	8de23aaaec61.ogg
+524	6632e7ca34bf.ogg
+525	00a8a5c3f7ba.ogg
+526	d5155d043a8e.ogg
+527	22ab0e4326f1.ogg
+528	1d7deb7af392.ogg
+529	945335a6aaa0.ogg
+530	5c64cc5d7cc0.ogg
+531	9d94ce174298.ogg
+532	0313e644f8fd.ogg
+533	3a69aa1b60fe.ogg
+534	ae7329c979b3.ogg
+535	be2793cdd2af.ogg
+536	4e86d8c0a0eb.ogg
+537	7ec24305aabd.ogg
+538	093f0b067a05.ogg
+539	3cc5149977a9.ogg
+540	a8a2b30f8dba.ogg
+541	acf10f2c0a9d.ogg
+542	d06b6c54863a.ogg
+543	f0483f255e0c.ogg
+544	b87bed129548.ogg
+545	9741f79aca77.ogg
+546	461742bbd8cc.ogg
+547	3219b5be78da.ogg
+548	916f5b10fee9.ogg
+549	2ef28d314a74.ogg
+550	cf94db48fb7a.ogg
+551	a4c36ded9dbf.ogg
+552	f53eac2e4221.ogg
+553	53e56691fe7c.ogg
+554	c8c06cfae2f5.ogg
+555	cfa1150f1787.ogg
+556	170377543ef0.ogg
+557	859371c78674.ogg
+558	9d6ad3cc125c.ogg
+559	2473f01571bf.ogg
+560	84582c1dbe02.ogg
+561	77c8184f671a.ogg
+562	904f2cc1c367.ogg
+563	68b7933743e4.ogg
+564	fe2fb474076a.ogg
+565	e77a763321d6.ogg
+566	ceab25abfedc.ogg
+567	664352171132.ogg
+568	8a1beaee63fe.ogg
+569	fc8d9e6e58db.ogg
+570	4260e7eabc19.ogg
+571	2bfba6b3b2af.ogg
+572	7ee08d3afb3a.ogg
+573	f33f7ae89c2c.ogg
+574	fa1a65120bd4.ogg
+575	05a53e3696e2.ogg
+576	0fb914ab018d.ogg
+577	7c33876368ec.ogg
+578	e77f8d53c6df.ogg
+579	7a9ca14dcab2.ogg
+580	3db2991a3bd1.ogg
+581	9f682df24566.ogg
+582	985d6ac20b18.ogg
+583	9c676e003b89.ogg
+584	c6eeaa0539ea.ogg
+585	a32c5cfee764.ogg
+586	4088f87e6ece.ogg
+587	e4dd8a3f00e9.ogg
+588	55da3f56239d.ogg
+589	867cd58f3fe3.ogg
+590	efa260adfcac.ogg
+591	213483417380.ogg
+592	ed29c0d8b335.ogg
+593	620807a1bbd6.ogg
+594	c2548064eaf0.ogg
+595	edd6bb418106.ogg
+596	ad1bf290f3ae.ogg
+597	8b4753ed1cb2.ogg
+598	91eb375e8e71.ogg
+599	13b724905530.ogg
+600	15aa0c7e8fbd.ogg

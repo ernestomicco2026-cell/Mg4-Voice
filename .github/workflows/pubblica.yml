@@ -1,0 +1,57 @@
+# Quando pubblichi una Release su GitHub, questo lavoro fa tutto da solo:
+#  - tag packs-v1 (o simile): crea gli zip di lingua e voci da packs-src/, li allega alla Release
+#    e aggiorna catalog.json nella radice del repository;
+#  - tag v1.0.0-beta.2 (o simile): allega releases/MG4Voice-<versione>.apk alla Release.
+name: Pubblica APK e pacchetti
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag della release (es. packs-v1 oppure v1.0.0-beta.2)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  pubblica:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Tag
+        run: echo "TAG=${{ github.event.release.tag_name || inputs.tag }}" >> "$GITHUB_ENV"
+
+      - name: Pacchetti lingua e voci
+        if: startsWith(github.event.release.tag_name || inputs.tag, 'packs')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 tools/packs/make_packs.py --tag "$TAG"
+          gh release upload "$TAG" dist/packs/*.zip dist/packs/*.ogg --clobber -R "$GITHUB_REPOSITORY"
+          cp dist/packs/catalog.json catalog.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog.json
+          git commit -m "Catalogo pacchetti ($TAG)" || echo "catalogo invariato"
+          git push origin HEAD:main
+
+      - name: APK
+        if: startsWith(github.event.release.tag_name || inputs.tag, 'v')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VER="${TAG#[vV]}"
+          APK="releases/MG4Voice-${VER}.apk"
+          if [ ! -f "$APK" ]; then
+            echo "::error::Non trovo $APK nel repository per il tag $TAG"
+            ls releases
+            exit 1
+          fi
+          gh release upload "$TAG" "$APK" --clobber -R "$GITHUB_REPOSITORY"
+          echo "Allegato $APK alla release $TAG"
