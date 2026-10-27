@@ -2,6 +2,12 @@
 
 **🇮🇹 Assistente vocale offline per l'infotainment MG4 · 🇬🇧 Offline voice assistant for the MG4 infotainment**
 
+> 🧪 **VERSIONE BETA (1.0.0-beta.2) – solo per prova.** Serve a capire se l'app funziona sulle auto reali.
+> Può contenere errori, comportamenti strani o funzioni incomplete. Non è la versione stabile.
+>
+> 🧪 **BETA VERSION (1.0.0-beta.2) – for testing only.** It is meant to find out whether the app works on real cars.
+> It may contain bugs, odd behaviour or unfinished features. It is not the stable version.
+
 ![Configurazione iniziale](MG4-Voce-1.0-configurazione.png)
 
 ---
