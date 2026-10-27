@@ -34,6 +34,7 @@ jobs:
         run: |
           python3 tools/packs/make_packs.py --tag "$TAG"
           gh release upload "$TAG" dist/packs/*.zip dist/packs/*.ogg --clobber -R "$GITHUB_REPOSITORY"
+          [ -f "releases/notes/$TAG.md" ] && gh release edit "$TAG" --notes-file "releases/notes/$TAG.md" -R "$GITHUB_REPOSITORY"
           cp dist/packs/catalog.json catalog.json
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -54,4 +55,5 @@ jobs:
             exit 1
           fi
           gh release upload "$TAG" "$APK" --clobber -R "$GITHUB_REPOSITORY"
+          [ -f "releases/notes/$TAG.md" ] && gh release edit "$TAG" --notes-file "releases/notes/$TAG.md" -R "$GITHUB_REPOSITORY"
           echo "Allegato $APK alla release $TAG"
