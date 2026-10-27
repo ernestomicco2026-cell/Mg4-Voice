@@ -43,7 +43,7 @@ anonima**: le frasi e brevi registrazioni dei comandi, niente numero di telaio. 
 versione stabile, e **ogni allenamento conta**: più la usi e la alleni, più migliora. Si può disattivare nelle impostazioni.
 
 ### Sostienilo
-MG4 Voice è e resterà **gratuito**. Se ti è utile e ti va di contribuire alle ore passate a svilupparlo e provarlo
+MG4 Voice è **gratuito** per ora. Se ti è utile e ti va di contribuire alle ore passate a svilupparlo e provarlo
 in auto, puoi lasciare un'offerta: è del tutto **volontaria** e **non c'è un importo minimo**, puoi donare quello che
 vuoi. Anche una stella al repository o una segnalazione di un problema sono un aiuto prezioso. Grazie!
 
@@ -80,7 +80,7 @@ If you choose **"I'll help"**, training data is sent **anonymously** (phrases an
 You can turn it off in the settings.
 
 ### Support it
-MG4 Voice is and will stay **free**. If you find it useful and would like to contribute to the hours spent
+MG4 Voice is **free** for now. If you find it useful and would like to contribute to the hours spent
 developing it and testing it in the car, you can leave a donation: it's completely **voluntary** and **there is no
 minimum amount**, you can give whatever you like. A star on the repository or a bug report help a lot too. Thank you!
 
