@@ -28,7 +28,7 @@ volante riscaldati, volume, radio, musica, autonomia, batteria, telefono, finest
 - **Capisce anche come si parla davvero:** "fa un freddo cane", "la musica è troppo alta", "il vetro è appannato"…
 - **Aggiornamenti automatici.**
 
-### Installazione (beta)
+### Installazione
 ```
 adb install -r -f MG4-Voice-1.0.0-beta.x.apk
 ```
