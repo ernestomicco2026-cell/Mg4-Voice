@@ -42,6 +42,13 @@ allenamento veloce.
 anonima**: le frasi e brevi registrazioni dei comandi, niente numero di telaio. Con i dati di tutti costruiamo la
 versione stabile, e **ogni allenamento conta**: più la usi e la alleni, più migliora. Si può disattivare nelle impostazioni.
 
+### Sostienilo
+MG4 Voice è e resterà **gratuito**. Se ti è utile e ti va di contribuire alle ore passate a svilupparlo e provarlo
+in auto, puoi lasciare un'offerta: è del tutto **volontaria** e **non c'è un importo minimo**, puoi donare quello che
+vuoi. Anche una stella al repository o una segnalazione di un problema sono un aiuto prezioso. Grazie!
+
+[![Offrimi un caffè con PayPal](https://img.shields.io/badge/Offrimi%20un%20caff%C3%A8-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/pool/9tv7fQ36nA?sr=wccr) [![Buy me a coffee with PayPal](https://img.shields.io/badge/Buy%20me%20a%20coffee-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/pool/9tv7fQ36nA?sr=wccr)
+
 ⚠️ **Avviso:** è un'app non ufficiale, non legata a MG/SAIC. La usi a tuo rischio: non fare la configurazione mentre
 guidi.
 
@@ -71,6 +78,13 @@ parked).
 ### Help us train it
 If you choose **"I'll help"**, training data is sent **anonymously** (phrases and short command recordings, no VIN).
 You can turn it off in the settings.
+
+### Support it
+MG4 Voice is and will stay **free**. If you find it useful and would like to contribute to the hours spent
+developing it and testing it in the car, you can leave a donation: it's completely **voluntary** and **there is no
+minimum amount**, you can give whatever you like. A star on the repository or a bug report help a lot too. Thank you!
+
+[![Offrimi un caffè con PayPal](https://img.shields.io/badge/Offrimi%20un%20caff%C3%A8-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/pool/9tv7fQ36nA?sr=wccr) [![Buy me a coffee with PayPal](https://img.shields.io/badge/Buy%20me%20a%20coffee-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/pool/9tv7fQ36nA?sr=wccr)
 
 ⚠️ **Disclaimer:** unofficial app, not affiliated with MG/SAIC. Use at your own risk; never run the setup while
 driving.
