@@ -1,0 +1,76 @@
+# Ogni 15 minuti controlla le Release del repository e completa quelle incomplete:
+#  - tag packs*: se mancano i pacchetti, li crea da packs-src/ e li allega, poi aggiorna catalog.json;
+#  - tag v*: se manca l'APK, allega releases/MG4Voice-<versione>.apk;
+#  - se la descrizione è vuota, la prende da releases/notes/<tag>.md.
+# Non dipende dall'evento "release pubblicata": funziona anche quando GitHub non lo avvia.
+name: Controlla le release
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: controlla-release
+  cancel-in-progress: false
+
+jobs:
+  controlla:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Completa le release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -u
+          changed_catalog=0
+          gh release list -R "$REPO" --limit 50 --json tagName -q '.[].tagName' | while read -r TAG; do
+            [ -z "$TAG" ] && continue
+            INFO="$(gh release view "$TAG" -R "$REPO" --json body,assets)"
+            ASSETS="$(echo "$INFO" | jq -r '.assets[].name')"
+            BODY="$(echo "$INFO" | jq -r '.body')"
+
+            # descrizione vuota: dal file delle note
+            if [ -z "$BODY" ] && [ -f "releases/notes/$TAG.md" ]; then
+              gh release edit "$TAG" -R "$REPO" --notes-file "releases/notes/$TAG.md"
+              echo "[$TAG] descrizione impostata"
+            fi
+
+            case "$TAG" in
+              packs*)
+                if ! echo "$ASSETS" | grep -qx "lang-it.zip"; then
+                  python3 tools/packs/make_packs.py --tag "$TAG"
+                  gh release upload "$TAG" dist/packs/*.zip dist/packs/*.ogg --clobber -R "$REPO"
+                  cp dist/packs/catalog.json catalog.json
+                  git config user.name "github-actions[bot]"
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  git add catalog.json
+                  if ! git diff --cached --quiet; then
+                    git commit -m "Catalogo pacchetti ($TAG)"
+                    git push origin HEAD:main
+                  fi
+                  echo "[$TAG] pacchetti allegati"
+                fi
+                ;;
+              v*)
+                VER="${TAG#[vV]}"
+                APK="releases/MG4Voice-${VER}.apk"
+                if ! echo "$ASSETS" | grep -q '\.apk$'; then
+                  if [ -f "$APK" ]; then
+                    gh release upload "$TAG" "$APK" --clobber -R "$REPO"
+                    echo "[$TAG] APK allegato"
+                  else
+                    echo "[$TAG] manca $APK nel repository: carica prima il file"
+                  fi
+                fi
+                ;;
+            esac
+          done
