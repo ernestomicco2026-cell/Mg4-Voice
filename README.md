@@ -2,11 +2,11 @@
 
 **🇮🇹 Assistente vocale offline per l'infotainment MG4 · 🇬🇧 Offline voice assistant for the MG4 infotainment**
 
-> 🧪 **VERSIONE BETA (1.0.0-beta.4) – supersperimentale, solo per prova.** Serve a capire se l'app funziona sulle
+> 🧪 **VERSIONE BETA (1.0.0-beta.5) – supersperimentale, solo per prova.** Serve a capire se l'app funziona sulle
 > auto reali e a raccogliere allenamento: **serve ancora tanto allenamento**. Può sbagliare comandi, comportarsi in
 > modo strano o avere funzioni incomplete. Non è la versione stabile.
 >
-> 🧪 **BETA VERSION (1.0.0-beta.4) – super-experimental, for testing only.** It is meant to find out whether the app
+> 🧪 **BETA VERSION (1.0.0-beta.5) – super-experimental, for testing only.** It is meant to find out whether the app
 > works on real cars and to collect training data: **it still needs a lot of training**. It may misunderstand
 > commands, behave oddly or have unfinished features. It is not the stable version.
 
