@@ -37,6 +37,9 @@ Si installa come una **normale app**:
 Al primo avvio parte la **configurazione** (circa 3 minuti, ad auto ferma): lingua, voce, microfono, "Ehi MG" e un
 allenamento veloce.
 
+MG4 Voice **disattiva l'assistente vocale originale** dell'auto, così il tasto al volante apre il nostro. **Prima di
+disinstallare MG4 Voice** spegni l'interruttore **"Assistente attivo"**: l'assistente originale torna attivo.
+
 ### Aiutaci ad allenarla
 È una **beta**. Se nella configurazione scegli **"Contribuisco"**, gli allenamenti vengono inviati **in forma
 anonima**: le frasi e brevi registrazioni dei comandi, niente numero di telaio. Con i dati di tutti costruiamo la
@@ -74,6 +77,9 @@ It installs like a **normal app**:
 
 On first launch a short **setup** starts (about 3 minutes, while
 parked).
+
+MG4 Voice **turns off the car's original voice assistant**, so the steering-wheel button opens ours. **Before
+uninstalling MG4 Voice**, switch off **"Assistant on"**: the original assistant comes back.
 
 ### Help us train it
 If you choose **"I'll help"**, training data is sent **anonymously** (phrases and short command recordings, no VIN).
