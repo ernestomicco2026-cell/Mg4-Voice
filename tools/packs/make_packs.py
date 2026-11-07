@@ -16,10 +16,14 @@ OUT = os.path.join(ROOT, "dist", "packs")
 REPO = "ernestomicco2026-cell/mg4-voice"
 
 # lingue pronte: {codice: (cartella modello Vosk, cartella voce Piper di riserva, voci registrate)}
+# 1.0.0-beta.8: una sola voce per lingua, dal vivo (Piper): Serena (it), Jessica (fr), Gosia (pl).
+# Le voci registrate (Sara, Nicola) non sono piu' nel catalogo; packs-src/voce resta per le versioni vecchie.
 LANGS = {
-    "it": ("model-it", "tts-it", [("sara", "Sara", "f"), ("nicola", "Nicola", "m")]),
+    "it": ("model-it", "tts-it", []),
+    "fr": ("model-fr", "tts-fr", []),
+    "pl": ("model-pl", "tts-pl", []),
 }
-SAMPLE_KEY = {"it": "ciao sono il tuo assistente mg mi senti bene"}
+SAMPLE_KEY = {}
 
 
 def zipdir(zpath, parts):
