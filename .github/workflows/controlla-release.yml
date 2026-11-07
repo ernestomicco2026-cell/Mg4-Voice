@@ -48,7 +48,7 @@ jobs:
               packs*)
                 if ! echo "$ASSETS" | grep -qx "lang-it.zip"; then
                   python3 tools/packs/make_packs.py --tag "$TAG"
-                  gh release upload "$TAG" dist/packs/*.zip dist/packs/*.ogg --clobber -R "$REPO"
+                  gh release upload "$TAG" $(ls dist/packs/*.zip dist/packs/*.ogg 2>/dev/null) --clobber -R "$REPO"
                   cp dist/packs/catalog.json catalog.json
                   git config user.name "github-actions[bot]"
                   git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
