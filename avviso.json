@@ -1,0 +1,12 @@
+{
+  "id": "aggiorna-beta9",
+  "sotto": "1.0.0-beta.9",
+  "titolo": {
+    "it": "Aggiorna MG4 Voice",
+    "en": "Update MG4 Voice"
+  },
+  "testo": {
+    "it": "È disponibile una nuova versione di MG4 Voice con correzioni importanti. Per installarla apri MG4 Voice, vai in Impostazioni e tocca Aggiornamenti.",
+    "en": "A new version of MG4 Voice with important fixes is available. To install it, open MG4 Voice, go to Settings and tap Updates."
+  }
+}
