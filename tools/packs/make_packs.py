@@ -8,7 +8,7 @@ e catalog.json. Da caricare cosi':
   - gli zip e le anteprime .ogg  → Release "packs-v1" del repository mg4-voice (allegati; togliere "Set as the latest release")
   - catalog.json                 → nella radice del repository mg4-voice (ramo main)
 """
-import argparse, hashlib, json, os, zipfile
+import argparse, hashlib, json, os, re, zipfile
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SRC = os.path.join(ROOT, "packs-src")
@@ -49,8 +49,11 @@ def info(path):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--tag", default="packs-v1")
-    ap.add_argument("--version", default="1")
+    ap.add_argument("--version", default="")
     a = ap.parse_args()
+    if not a.version:  # packs-v3 -> versione "3": l'app propone l'aggiornamento quando cambia
+        m = re.search(r"(\d+)$", a.tag)
+        a.version = m.group(1) if m else "1"
     os.makedirs(OUT, exist_ok=True)
     base = f"https://github.com/{REPO}/releases/download/{a.tag}/"
     packs = []

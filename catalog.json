@@ -6,7 +6,7 @@
    "type": "lang",
    "lang": "it",
    "name": "it",
-   "version": "1",
+   "version": "3",
    "size": 117150856,
    "sha256": "4b2e2c8625711434b14bb9c2c4c74e149eb88cceaba7c4adc668f53689c3ac6d",
    "url": "https://github.com/ernestomicco2026-cell/mg4-voice/releases/download/packs-v3/lang-it.zip"
@@ -16,7 +16,7 @@
    "type": "lang",
    "lang": "fr",
    "name": "fr",
-   "version": "1",
+   "version": "3",
    "size": 122456298,
    "sha256": "cb8529cbb56eaa172aa2e204c3128a71acf58900b8305f31e8acf96eb71adb0d",
    "url": "https://github.com/ernestomicco2026-cell/mg4-voice/releases/download/packs-v3/lang-fr.zip"
@@ -26,7 +26,7 @@
    "type": "lang",
    "lang": "pl",
    "name": "pl",
-   "version": "1",
+   "version": "3",
    "size": 120342838,
    "sha256": "7df77a353f4106dffeb0bd2151e25e5ea38c94eb9550c1988abc730e85466de5",
    "url": "https://github.com/ernestomicco2026-cell/mg4-voice/releases/download/packs-v3/lang-pl.zip"
