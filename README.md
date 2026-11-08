@@ -2,11 +2,11 @@
 
 **🇮🇹 Assistente vocale offline per l'infotainment MG4 · 🇬🇧 Offline voice assistant for the MG4 infotainment**
 
-> 🧪 **VERSIONE BETA (1.0.0-beta.9) – supersperimentale, solo per prova.** Serve a capire se l'app funziona sulle
+> 🧪 **VERSIONE BETA (1.0.0-beta.10) – supersperimentale, solo per prova.** Serve a capire se l'app funziona sulle
 > auto reali e a raccogliere allenamento: **serve ancora tanto allenamento**. Può sbagliare comandi, comportarsi in
 > modo strano o avere funzioni incomplete. Non è la versione stabile.
 >
-> 🧪 **BETA VERSION (1.0.0-beta.9) – super-experimental, for testing only.** It is meant to find out whether the app
+> 🧪 **BETA VERSION (1.0.0-beta.10) – super-experimental, for testing only.** It is meant to find out whether the app
 > works on real cars and to collect training data: **it still needs a lot of training**. It may misunderstand
 > commands, behave oddly or have unfinished features. It is not the stable version.
 
@@ -22,9 +22,11 @@ volante riscaldati, volume, radio, musica, autonomia, batteria, telefono, finest
 **Funziona offline**: internet serve solo per scaricare lingua e voce la prima volta, e per gli aggiornamenti.
 
 - **Versioni:** SWI68, SWI69, SWI132, SWI133. Un solo APK, che riconosce il software da solo.
-- **Lingue:** per ora **solo italiano**. Le altre lingue (inglese, francese, spagnolo, tedesco, portoghese BR/PT,
-  turco e polacco) arriveranno più avanti, sviluppate con l'aiuto di **madrelingua**.
-- **Voci naturali scaricabili:** Sara e Nicola.
+- **Lingue:** **italiano**, più **francese** e **polacco** in prova. Le altre lingue (inglese, spagnolo, tedesco,
+  portoghese BR/PT e turco) arriveranno più avanti, sviluppate con l'aiuto di **madrelingua**.
+- **Voce naturale scaricabile:** Serena per l'italiano, Jessica per il francese, Gosia per il polacco.
+- **Android Auto e CarPlay:** quando sono attivi, "Ehi MG" si mette in pausa e lascia microfono e tasto al volante
+  al loro assistente.
 - **Capisce anche come si parla davvero:** "fa un freddo cane", "la musica è troppo alta", "il vetro è appannato"…
 - **Aggiornamenti automatici.**
 
@@ -42,7 +44,7 @@ disinstallare MG4 Voice** spegni l'interruttore **"Assistente attivo"**: l'assis
 
 ### Aiutaci ad allenarla
 È una **beta**. Se nella configurazione scegli **"Contribuisco"**, gli allenamenti vengono inviati **in forma
-anonima**: le frasi e brevi registrazioni dei comandi, niente numero di telaio. Con i dati di tutti costruiamo la
+anonima**: le frasi e brevi registrazioni dei comandi, niente numero di telaio, nomi della rubrica o numeri di telefono. Con i dati di tutti costruiamo la
 versione stabile, e **ogni allenamento conta**: più la usi e la alleni, più migliora. Si può disattivare nelle impostazioni.
 
 ### Sostienilo
@@ -67,8 +69,11 @@ defrost, heated seats and wheel, volume, radio, music, range, battery, phone, wi
 **Works offline**: internet is only needed to download the language and voice the first time, and for updates.
 
 - **Versions:** SWI68, SWI69, SWI132, SWI133. One single APK, which detects the software by itself.
-- **Languages:** for now **Italian only**. The other languages (English, French, Spanish, German, Portuguese BR/PT,
-  Turkish and Polish) will come later, developed with the help of **native speakers**.
+- **Languages:** **Italian**, plus **French** and **Polish** in testing. The other languages (English, Spanish,
+  German, Portuguese BR/PT and Turkish) will come later, developed with the help of **native speakers**.
+- **Natural downloadable voice:** Serena for Italian, Jessica for French, Gosia for Polish.
+- **Android Auto and CarPlay:** while they are active, "Hey MG" pauses and leaves the microphone and the
+  steering-wheel button to their assistant.
 - **Automatic updates.**
 
 ### Install (beta)
@@ -84,7 +89,7 @@ MG4 Voice **turns off the car's original voice assistant**, so the steering-whee
 uninstalling MG4 Voice**, switch off **"Assistant on"**: the original assistant comes back.
 
 ### Help us train it
-If you choose **"I'll help"**, training data is sent **anonymously** (phrases and short command recordings, no VIN).
+If you choose **"I'll help"**, training data is sent **anonymously** (phrases and short command recordings, no VIN, contact names or phone numbers).
 You can turn it off in the settings.
 
 ### Support it
