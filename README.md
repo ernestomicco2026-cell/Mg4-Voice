@@ -2,11 +2,11 @@
 
 **🇮🇹 Assistente vocale offline per l'infotainment MG4 · 🇬🇧 Offline voice assistant for the MG4 infotainment**
 
-> 🧪 **VERSIONE BETA (1.0.0-beta.11) – supersperimentale, solo per prova.** Serve a capire se l'app funziona sulle
+> 🧪 **VERSIONE BETA (1.0.0-beta.12) – supersperimentale, solo per prova.** Serve a capire se l'app funziona sulle
 > auto reali e a raccogliere allenamento: **serve ancora tanto allenamento**. Può sbagliare comandi, comportarsi in
 > modo strano o avere funzioni incomplete. Non è la versione stabile.
 >
-> 🧪 **BETA VERSION (1.0.0-beta.11) – super-experimental, for testing only.** It is meant to find out whether the app
+> 🧪 **BETA VERSION (1.0.0-beta.12) – super-experimental, for testing only.** It is meant to find out whether the app
 > works on real cars and to collect training data: **it still needs a lot of training**. It may misunderstand
 > commands, behave oddly or have unfinished features. It is not the stable version.
 
@@ -25,8 +25,9 @@ volante riscaldati, volume, radio, musica, autonomia, batteria, telefono, finest
 - **Lingue:** **italiano**, più **francese** e **polacco** in prova. Le altre lingue (inglese, spagnolo, tedesco,
   portoghese BR/PT e turco) arriveranno più avanti, sviluppate con l'aiuto di **madrelingua**.
 - **Voce naturale scaricabile:** Serena per l'italiano, Jessica per il francese, Gosia per il polacco.
-- **Android Auto e CarPlay:** quando sono attivi, "Ehi MG" si mette in pausa e lascia microfono e tasto al volante
-  al loro assistente.
+- **Android Auto e CarPlay:** con Android Auto attivo "Ehi MG" si mette in pausa e lascia microfono e tasto al
+  volante all'assistente di Google. Con CarPlay o una scatola AI MG4 Voice resta attiva; chi usa Siri può accendere
+  "Pausa con CarPlay e scatole AI" nelle impostazioni.
 - **Capisce anche come si parla davvero:** "fa un freddo cane", "la musica è troppo alta", "il vetro è appannato"…
 - **Aggiornamenti automatici.**
 
@@ -72,8 +73,9 @@ defrost, heated seats and wheel, volume, radio, music, range, battery, phone, wi
 - **Languages:** **Italian**, plus **French** and **Polish** in testing. The other languages (English, Spanish,
   German, Portuguese BR/PT and Turkish) will come later, developed with the help of **native speakers**.
 - **Natural downloadable voice:** Serena for Italian, Jessica for French, Gosia for Polish.
-- **Android Auto and CarPlay:** while they are active, "Hey MG" pauses and leaves the microphone and the
-  steering-wheel button to their assistant.
+- **Android Auto and CarPlay:** while Android Auto is active, "Hey MG" pauses and leaves the microphone and the
+  steering-wheel button to Google's assistant. With CarPlay or an AI box MG4 Voice stays on; if you use Siri, turn on
+  "Pause with CarPlay and AI boxes" in the settings.
 - **Automatic updates.**
 
 ### Install (beta)
