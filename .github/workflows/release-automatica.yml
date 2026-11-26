@@ -1,0 +1,65 @@
+# Crea da sola la Release su GitHub quando viene pubblicata una nuova versione di MG4 Voice, cioè quando su main
+# arriva un nuovo releases/MG4Voice-<versione>.apk (si fa solo dopo l'ok di Ernesto).
+# Tag v<versione>, titolo "Mg4 Voice 1.0.0 beta N", descrizione da releases/notes/v<versione>.md, APK allegato,
+# segnata come pre-release (beta). Se la Release esiste già non tocca niente.
+# Si può lanciare anche a mano da Actions → "Release automatica" → Run workflow, per recuperare una versione.
+name: Release automatica
+
+on:
+  push:
+    branches: [main]
+    paths: ['releases/MG4Voice-*.apk', 'releases/notes/**', '.github/workflows/release-automatica.yml']
+  workflow_dispatch:
+    inputs:
+      versione:
+        description: "Versione da pubblicare (vuoto = l'APK più recente in releases/), es. 1.0.0-beta.12"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency: release-automatica
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Trova la versione
+        id: p
+        env:
+          VERSIONE: ${{ github.event.inputs.versione }}
+        run: |
+          VER="${VERSIONE#[vV]}"
+          if [ -z "$VER" ]; then
+            VER="$(ls releases/MG4Voice-*.apk | sed -e 's#releases/MG4Voice-##' -e 's#\.apk$##' | sort -V | tail -1)"
+          fi
+          APK="releases/MG4Voice-${VER}.apk"
+          [ -f "$APK" ] || { echo "::error::Non trovo $APK"; exit 1; }
+          TAG="v${VER}"
+          # titolo come le Release a mano: "Mg4 Voice 1.0.0 beta 11"
+          TITOLO="Mg4 Voice $(echo "$VER" | sed -e 's/-beta\./ beta /' -e 's/-rc\./ rc /')"
+          NOTE="releases/notes/${TAG}.md"
+          [ -f "$NOTE" ] || { printf 'MG4 Voice %s\n' "$VER" > "$RUNNER_TEMP/note.md"; NOTE="$RUNNER_TEMP/note.md"; }
+          PRE=false; case "$VER" in *-*) PRE=true;; esac
+          { echo "tag=$TAG"; echo "apk=$APK"; echo "titolo=$TITOLO"; echo "note=$NOTE"; echo "pre=$PRE"; } >> "$GITHUB_OUTPUT"
+
+      - name: Crea la Release (solo se non c'è già)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.p.outputs.tag }}
+          APK: ${{ steps.p.outputs.apk }}
+          TITOLO: ${{ steps.p.outputs.titolo }}
+          NOTE: ${{ steps.p.outputs.note }}
+          PRE: ${{ steps.p.outputs.pre }}
+        run: |
+          if gh release view "$TAG" -R "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo "La Release $TAG esiste già: non tocco niente."
+            exit 0
+          fi
+          # una pre-release non può essere segnata come "ultima": in quel caso niente --latest
+          EXTRA="--latest"; [ "$PRE" = true ] && EXTRA="--prerelease"
+          gh release create "$TAG" "$APK" -R "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
+            --title "$TITOLO" --notes-file "$NOTE" $EXTRA
+          echo "Creata la Release $TAG con $APK"
